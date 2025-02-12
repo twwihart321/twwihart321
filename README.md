@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm twwihart321
 
-<!--
-**twwihart321/twwihart321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎰 🎯 🎽 Looking to collaborate on tools 🎰 🎯 🎽
 
-Here are some ideas to get you started:
+## About Me
+🥁 🎬 Dedicated to mastering algorithms 🥁 🎬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚣 🎷 Looking to contribute to mobile development 🚣 🎷
+
+### Fun Facts
+🏒 🚀 🚴 Looking to contribute to desktop development 🏒 🚀 🚴
+
+---
+🎯 🎯 🎣 🎮 🚴 Thanks for visiting my profile! 🎮 🥋 🚀 🏸 🎳
